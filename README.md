@@ -30,7 +30,7 @@
   - 图解HTTP，人民邮电出版社
 - AJAX
 - Web 安全相关：[Web 安全 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/Security)
-- Git
+- git
 - Linux 基础命令
 - Chrome Dev Tools
 
